@@ -135,7 +135,6 @@ Cardigann simply provides a format for describing how to log into and scrape the
 ### Private
 * Abnormal
 * AlphaRatio
-* Apollo (XANAX)
 * BIT-HDTV
 * BitMeTV
 * Blu-bits
@@ -150,12 +149,14 @@ Cardigann simply provides a format for describing how to log into and scrape the
 * HD-Torrents
 * Immortalseed
 * IPTorrents
+* Metal-tracker.com
 * MoreThanTV
 * MyAnonamouse
 * MySpleen
 * NCore
 * NetHD
 * Norbits
+* Orpheus (Apollo)
 * PreToMe
 * PrivateHD
 * Redacted
